@@ -1,7 +1,7 @@
 ###################################################################
 #                                                                 #
-#    pSVM-pin V1.0                                               #
-#    Limeng Cui (lmcui932-at-163.com)                             #
+#    pSVM-pin V1.0                                                #
+#    Limeng Cui (lmcui932-at-gmail.com)                           #
 #                                                                 #
 ###################################################################
 
@@ -13,7 +13,13 @@ Part of the Matlab code is supported on Felix X. Yu’s pSVM (felixyu.org/pSVM.h
 
 If you use this toolbox, we appreciate it if you cite an appropriate subset of the following papers:
 
-TBA.
+@article{shi2017learning,<br />
+&nbsp;&nbsp;title={Learning from label proportions with pinball loss},<br />
+&nbsp;&nbsp;author={Shi, Yong and Cui, Limeng and Chen, Zhensong and Qi, Zhiquan},<br />
+&nbsp;&nbsp;journal={International Journal of Machine Learning and Cybernetics},<br />
+&nbsp;&nbsp;pages={1--19},<br />
+&nbsp;&nbsp;year={2017},<br />
+&nbsp;&nbsp;publisher={Springer}<br />
 
 ###################################################################
 
